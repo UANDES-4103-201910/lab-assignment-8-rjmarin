@@ -20,6 +20,25 @@ html {
 	flex: 1;
 	width: 100%;
 }
+.container {
+	text-align: center;
+	color: #f0f0f0;
+}
+#btnShow{
+	font-family: sans-serif;
+	background-color: #aaa;
+	color: #fff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+	white-space: nowrap;
+	flex: 1;
+	height: auto;
+
+}
 
 .key {
 	font-family: sans-serif;
